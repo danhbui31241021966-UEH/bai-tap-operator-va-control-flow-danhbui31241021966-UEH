@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp-assignment-hello-world")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dffe249c5dd330bbc786d109a7bdc9591e79d27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be1df7ffb5882d36079d3159511a8661e176da0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp-assignment-hello-world")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp-assignment-hello-world")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

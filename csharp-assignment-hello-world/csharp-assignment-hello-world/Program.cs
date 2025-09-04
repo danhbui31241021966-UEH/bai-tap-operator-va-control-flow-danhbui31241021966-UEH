@@ -234,4 +234,4 @@ public class Program
         if (prime) Console.WriteLine(nguyento + " is Prime");
         else Console.WriteLine(n + " is Not Prime");
     }
-}
+} 
